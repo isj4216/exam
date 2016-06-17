@@ -7,7 +7,7 @@ import spring.service.ServiceImpl;
 
 public class Assembler
 {
-	public void hh(){}
+	public void hh234(){}
 	
 	public Service getBean()
 	{
