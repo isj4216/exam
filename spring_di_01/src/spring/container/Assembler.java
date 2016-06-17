@@ -7,10 +7,7 @@ import spring.service.ServiceImpl;
 
 public class Assembler
 {
-	/*public Dao getBean()
-	{
-		return new JdbcDaoImpl();
-	}*/
+	
 	
 	public Service getBean()
 	{
