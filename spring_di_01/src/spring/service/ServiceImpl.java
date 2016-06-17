@@ -17,6 +17,6 @@ public class ServiceImpl implements Service
 		System.out.println("----------등록작업시작.-----------");
 		dao.select();
 		dao.insert();
-		System.out.println("----------등록작업종료.-----------");
+		System.out.println("----------등록작업종료.-----------"); 
 	}
 }
